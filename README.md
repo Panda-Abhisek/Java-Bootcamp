@@ -1,20 +1,21 @@
 # Java-Bootcamp
 
 ### Number Programs
-1. Factorial
-2. Sum of Digits
-3. Sum of Digits upto Single Digit Answer
-4. Binary - Decimal
-5. Decimal - Binary
-6. Add odd digits && even digits
-7. Length of Digits
-8. Prime Number
-9. LCM, HCF
-10. Automorphic
-11. Armstrong
-12. Neon
-13. Special
-14. Palindrome
-15. Fibonacci
-16. Perfect 
-17. Strong
+- [Factorial](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog1.java)
+- [Sum of Digits] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog2.java)
+- [Sum of Digits upto Single Digit Answer] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java)
+- [Binary - Decimal] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog4.java)
+- [Decimal - Binary] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog5.java)
+- [Multiplication Table] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog6.java)
+- [Add odd digits && even digits separately] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog7.java)
+- [Length of Digits] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog8.java)
+- [Prime Number] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prime.java)
+- [LCM, HCF] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog9.java)
+- [Automorphic] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Automorphic.java)
+- [Armstrong] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Armstrong.java)
+- [Neon] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Neon.java)
+- [Special] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Special.java)
+- [Palindrome] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Palindrome.java)
+- [Fibonacci] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Fibonacci.java)
+- [Perfect] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Perfect.java)
+- [Strong] (https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java)
