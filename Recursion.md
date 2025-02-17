@@ -3,7 +3,7 @@
 
 ## Easy
 
-- Maximum adn Minimum Value in an Array
+- [Maximum and Minimum Value in an Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/maxMin.java)
 - [First Uppercase Letter in a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/First.java)
 - Reverse String
 - Print 1 to N Without Loop
