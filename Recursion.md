@@ -6,7 +6,7 @@
 - [Maximum and Minimum Value in an Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/maxMin.java)
 - [First Uppercase Letter in a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/First.java)
 - Reverse String
-- Print 1 to N Without Loop
+- [Print 1 to N Without Loop](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/NumberPrint.java)
 - Fibonacci Number
 - Length of string using Recursion
 - Sum of digit of a number using Recursion
