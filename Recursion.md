@@ -9,7 +9,7 @@
 - [Print 1 to N Without Loop](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/NumberPrint.java)
 - [Fibonacci Number](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/Fibonacci.java)
 - [Length of string using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/StrLength.java)
-- Sum of digit of a number using Recursion
+- [Sum of digit of a number using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DigitSum.java)
 - Product of two numbers using Recursion
-- Check Prime or Not
-- Sum of Natural Numbers using Recursion
+- [Check Prime or Not](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/CheckPrime.java)
+- [Sum of Natural Numbers using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/NaturalSum.java)
