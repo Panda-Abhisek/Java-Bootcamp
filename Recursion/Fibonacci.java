@@ -5,9 +5,12 @@ class Fibonacci {
         System.out.print("How many terms Do you want to print in the series: ");
         int N = sc.nextInt();
         System.out.println("Fibonacci Series upto " + N + " terms is : ");
+
+        // F O R - R E V E R S E - P R I N T I N G
         // for (int i = N-1; i >= 0; i--) {
         //     System.out.print(fib(i)+" ");
         // }
+
         for (int i = 0; i < N; i++) {
             System.out.print(fib(i)+" ");
         }
