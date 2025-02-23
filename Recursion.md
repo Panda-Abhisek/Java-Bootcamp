@@ -13,3 +13,6 @@
 - Product of two numbers using Recursion
 - [Check Prime or Not](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/CheckPrime.java)
 - [Sum of Natural Numbers using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/NaturalSum.java)
+- [Factorial](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/Factorial.java)
+- [Sum of Digits](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DigitSum.java)
+- ["Sum of Digits, until single digit" / Super Digit](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
