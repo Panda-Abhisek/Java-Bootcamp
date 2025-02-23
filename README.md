@@ -4,7 +4,7 @@
 - Factorial [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog1.java) [(Recurion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/Factorial.java)
 - Sum of Digits [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog2.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DigitSum.java)
 - "Sum of Digits upto Single Digit Answer" / Super Digit [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
-- Binary - Decimal [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog4.java)
+- Binary - Decimal [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog4.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/BinToDec.java)
 - Decimal - Binary [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog5.java)
 - Multiplication Table [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog6.java)
 - Add odd digits && even digits separately [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog7.java)
