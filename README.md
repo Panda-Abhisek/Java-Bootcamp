@@ -3,7 +3,7 @@
 ### Number Programs
 - [Factorial](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog1.java)
 - [Sum of Digits](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog2.java)
-- [Sum of Digits upto Single Digit Answer](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java)
+- ["Sum of Digits upto Single Digit Answer" / Super Digit](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java)
 - [Binary - Decimal](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog4.java)
 - [Decimal - Binary](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog5.java)
 - [Multiplication Table](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog6.java)
@@ -19,3 +19,4 @@
 - [Fibonacci](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Fibonacci.java)
 - [Perfect](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Perfect.java)
 - [Strong](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java)
+- Super Digit [Loop](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java) [Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
