@@ -17,3 +17,4 @@
 - [Sum of Digits](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DigitSum.java)
 - ["Sum of Digits, until single digit" / Super Digit](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
 - [Binary - Decimal](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/BinToDec.java)
+- [Decimal - Binary](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DecToBin.java)
