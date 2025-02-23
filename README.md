@@ -19,4 +19,4 @@
 - [Fibonacci](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Fibonacci.java)
 - [Perfect](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Perfect.java)
 - [Strong](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java)
-- Super Digit [Loop](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java) [Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
+- Super Digit [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog3.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/SuperDigit.java)
