@@ -10,7 +10,7 @@
 - Add odd digits && even digits separately [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog7.java)
 - Length of Digits [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog8.java)
 - Prime Number [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prime.java)
-- LCM, HCF [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog9.java) [(HCFRecursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/GcdRecursion.java)
+- LCM, HCF [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog9.java) [(HCFRecursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/GcdRecursion.java) [(LCMRecursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/LcmRecursion.java)
 - Automorphic [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Automorphic.java)
 - Armstrong [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Armstrong.java)
 - Neon [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Neon.java)
