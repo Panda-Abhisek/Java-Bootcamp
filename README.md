@@ -8,7 +8,7 @@
 - Decimal - Binary [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog5.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/DecToBin.java)
 - Multiplication Table [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog6.java)
 - Add odd digits && even digits separately [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog7.java)
-- Length of Digits [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog8.java)
+- Length of Digits [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog8.java) [(Maths)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/LengthOfDigitsMaths.java)
 - Prime Number [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prime.java)
 - LCM, HCF [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Prog9.java) [(HCFRecursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/GcdRecursion.java) [(LCMRecursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/LcmRecursion.java)
 - Automorphic [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Automorphic.java)
