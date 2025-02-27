@@ -1,17 +1,19 @@
 class CheckPrime {
     public static void main(String[] args) {
         int n = 11;
-        System.out.println(isPrime(n));
+        System.out.println(isPrime(n, 2));
     }
 
-    public static boolean isPrime(int a) {
-        if (a <= 1)
+    public static boolean isPrime(int a, int i) {
+        if (a <= 1) {
             return false;
-        for (int i = 2; i <= a / 2; i++) {
-            if (a % i == 0) {
-                return false;
-            }
         }
-        return true;
+        if (i > Math.sqrt(a)) {
+            return true;
+        }
+        if (a % i == 0) {
+            return false;
+        }
+        return isPrime(a, i + 1);
     }
 }
