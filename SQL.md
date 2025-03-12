@@ -105,6 +105,9 @@
         purge recyclebin;
         ```
 - DCL (Data Control Language)
+    - Permission Granting:
+        - User to User : SELECT, INSERT, UPDATE, DELETE
+        - Admin to User : CREATE, SELECT, INSERT, UPDATE, DELETE
     - GRANT
         ```
         GRANT PRIVILEGES ON OBJECT TO USER;
