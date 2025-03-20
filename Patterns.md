@@ -2,94 +2,115 @@ Pattern Questions
 
 Print these patterns using loops:
 
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P1.java)
 ```text
-
-1.  *****     [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P1.java)
+1.  *****     
     *****
     *****
     *****
     *****
-
-
-2.  *         [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P2.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P2.java)
+```text
+2.  *         
     **
     ***
     ****
     *****
-
-
-3.  *****     [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P3.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P3.java)
+```text
+3.  *****     
     ****
     ***
     **
     *
-
-4.  5* 4* 3* 2* 1    [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P4.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P4.java)
+```text
+4.  5* 4* 3* 2* 1    
     5* 4* 3* 2
     5* 4* 3
     5* 4
     5
-
-5.  1 2 3 4 5        [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P5.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P5.java)
+```text
+5.  1 2 3 4 5        
     5 4 3 2 1
     1 2 3 4 5
     5 4 3 2 1
     1 2 3 4 5
-
-6.  *****            [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P6.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P6.java)
+```text
+6.  *****            
     *   *
     *   *
     *   *
     *****
-
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P7.java)
+```text
 7.  *   *
-     * *             [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P7.java)
+     * *            
       *
      * *
     *   *
-
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P8.java)
+```text
 8.  1
-    2  3             [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P8.java)
+    2  3             
     4  5  6
     7  8  9  10
     11 12 13 14 15
-
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P9.java)
+```text
 9.  1  2  3  4  5
-    10 9  8  7  6    [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P9.java)
+    10 9  8  7  6    
     11 12 13 14 15
     20 19 18 17 16
     21 22 23 24 25
-
-10.      *           [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P10.java)
+```
+[(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P10.java)
+```text
+10.      *           
         **
        ***
       ****
      *****
-
+```
+```text
 11.     *
        ***
       *****
      *******
     *********
-
+```
+```text
 12.  A 2 3 4 5
      1 B 3 4 5
      1 2 C 4 5
      1 2 3 D 5
      1 2 3 4 E
-
+```
+```text
 13.  1
      3  2
      4  5  6
      10 9  8  7
      11 12 13 14 15 
-
+```
+```text
 14.      *
         * *
        *   *
       *     *
      *********
-
+```
+```text
 15.     *
        ***
       *****
@@ -97,7 +118,8 @@ Print these patterns using loops:
       *****
        ***
         *
-
+```
+```text
 16. *
     **
     ***
@@ -107,8 +129,8 @@ Print these patterns using loops:
     ***
     **
     *
-
-
+```
+```text
 17.      *
         **
        ***
@@ -118,18 +140,21 @@ Print these patterns using loops:
        ***
         ** 
          *
-
+```
+```text
 18. ********* 
      *******
       *****
        ***
         *
-
+```
+```text
 19.     1
       1 2 1
     1 2 3 2 1
   1 2 3 4 3 2 1
-
+```
+```text
 20.    xxxxxxxxxxx
        xxxxx xxxxx
        xxxx   xxxx
@@ -141,19 +166,22 @@ Print these patterns using loops:
        xxxx   xxxx
        xxxxx xxxxx
        xxxxxxxxxxx
-
+```
+```text
 21.  *
      **
      * *
      *  *
      *****
-
+```
+```text
 22.      *
         **
        ***
       ****
      *****    
-
+```
+```text
 23.      *
         * *
        * * *
