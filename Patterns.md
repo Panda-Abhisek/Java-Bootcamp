@@ -82,6 +82,7 @@ Print these patterns using loops:
       ****
      *****
 ```
+[11. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P11.java)
 ```text
 11.     *
        ***
@@ -89,6 +90,7 @@ Print these patterns using loops:
      *******
     *********
 ```
+[12. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P12.java)
 ```text
 12.  A 2 3 4 5
      1 B 3 4 5
@@ -96,6 +98,7 @@ Print these patterns using loops:
      1 2 3 D 5
      1 2 3 4 E
 ```
+[13. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P13.java)
 ```text
 13.  1
      3  2
@@ -103,6 +106,7 @@ Print these patterns using loops:
      10 9  8  7
      11 12 13 14 15 
 ```
+[14. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P14.java)
 ```text
 14.      *
         * *
@@ -110,6 +114,7 @@ Print these patterns using loops:
       *     *
      *********
 ```
+[15. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P15.java)
 ```text
 15.     *
        ***
@@ -119,6 +124,7 @@ Print these patterns using loops:
        ***
         *
 ```
+[16. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P16.java)
 ```text
 16. *
     **
@@ -130,6 +136,7 @@ Print these patterns using loops:
     **
     *
 ```
+[17. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P17.java)
 ```text
 17.      *
         **
@@ -141,6 +148,7 @@ Print these patterns using loops:
         ** 
          *
 ```
+[18. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P18.java)
 ```text
 18. ********* 
      *******
@@ -148,12 +156,14 @@ Print these patterns using loops:
        ***
         *
 ```
+[19. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P19.java)
 ```text
 19.     1
       1 2 1
     1 2 3 2 1
   1 2 3 4 3 2 1
 ```
+[20. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P20.java)
 ```text
 20.    xxxxxxxxxxx
        xxxxx xxxxx
@@ -167,6 +177,7 @@ Print these patterns using loops:
        xxxxx xxxxx
        xxxxxxxxxxx
 ```
+[21. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P21.java)
 ```text
 21.  *
      **
@@ -174,6 +185,7 @@ Print these patterns using loops:
      *  *
      *****
 ```
+[22. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P22.java)
 ```text
 22.      *
         **
