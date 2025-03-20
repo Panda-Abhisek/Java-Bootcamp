@@ -4,63 +4,63 @@ Print these patterns using loops:
 
 ```text
 
-1.  *****
+1.  *****     [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P1.java)
     *****
     *****
     *****
     *****
 
 
-2.  *
+2.  *         [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P2.java)
     **
     ***
     ****
     *****
 
 
-3.  *****
+3.  *****     [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P3.java)
     ****
     ***
     **
     *
 
-4.  5* 4* 3* 2* 1
+4.  5* 4* 3* 2* 1    [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P4.java)
     5* 4* 3* 2
     5* 4* 3
     5* 4
     5
 
-5.  1 2 3 4 5
+5.  1 2 3 4 5        [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P5.java)
     5 4 3 2 1
     1 2 3 4 5
     5 4 3 2 1
     1 2 3 4 5
 
-6.  *****
+6.  *****            [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P6.java)
     *   *
     *   *
     *   *
     *****
 
 7.  *   *
-     * *
+     * *             [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P7.java)
       *
      * *
     *   *
 
 8.  1
-    2  3
+    2  3             [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P8.java)
     4  5  6
     7  8  9  10
     11 12 13 14 15
 
 9.  1  2  3  4  5
-    10 9  8  7  6
+    10 9  8  7  6    [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P9.java)
     11 12 13 14 15
     20 19 18 17 16
     21 22 23 24 25
 
-10.      *
+10.      *           [(Code)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/P10.java)
         **
        ***
       ****
