@@ -20,7 +20,7 @@
 - Perfect [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Perfect.java)
 - Strong [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java) 
 
-Pattern Questions
+### Pattern Questions
 
 Print these patterns using loops:
 
