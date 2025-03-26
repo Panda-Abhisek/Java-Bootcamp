@@ -4,3 +4,4 @@
 - [Alternate Case Reversal (e.g., "KNOWLEDGE" → "WONKLEGDE")]()
 - [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13)]()
 - [Palindromic Substrings (e.g., "banana")]()
+- [Count of Vowels and Consonants]()
