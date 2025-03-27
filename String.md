@@ -5,3 +5,4 @@
 - [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13)]()
 - [Palindromic Substrings (e.g., "banana")]()
 - [Count of Vowels and Consonants]()
+- [Word-Level Reversal: java is easy -> ajav si ysae](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/WordLevelRev.java)
