@@ -28,6 +28,8 @@
 - [Palindromic Substrings (e.g., "banana")]() ❌
 - [Count of Vowels and Consonants]() ❌
 - [Word-Level Reversal: java is easy -> ajav si ysae](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/WordLevelRev.java)
+- [Permutations of a String]()
+- [Balance String]()
 
 ### Pattern Questions
 
