@@ -31,7 +31,7 @@
 - [Permutations of a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Permutation.java)
 - [Balance String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/BalanceString.java)
 - [Decode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Decode.java)
-- [Encode a String]() ❌
+- [Encode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/encode.java)
 
 ### Pattern Questions
 
