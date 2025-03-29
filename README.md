@@ -26,7 +26,7 @@
 - [Alternate Case Reversal (e.g., "KNOWLEDGE" → "WONKLEGDE")](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/AlternateRev.java)
 - [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13)]() ❌
 - [Palindromic Substrings (e.g., "banana")]() ❌
-- [Count of Vowels and Consonants]() ❌
+- [Count of Vowels and Consonants](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/VowelConsonant.java)
 - [Word-Level Reversal: java is easy -> ajav si ysae](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/WordLevelRev.java)
 - [Permutations of a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Permutation.java)
 - [Balance String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/BalanceString.java)
