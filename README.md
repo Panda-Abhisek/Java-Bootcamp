@@ -24,7 +24,7 @@
 - [Reverse of String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/StringReverse.java)
 - [Palindrome Check](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Palindrome.java)
 - [Alternate Case Reversal (e.g., "KNOWLEDGE" → "WONKLEGDE")](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/AlternateRev.java)
-- [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13)]() ❌
+- [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13) - using REGEX](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/SumOfNums.java)
 - [Palindromic Substrings (e.g., "banana")]() ❌
 - [Count of Vowels and Consonants](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/VowelConsonant.java)
 - [Word-Level Reversal: java is easy -> ajav si ysae](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/WordLevelRev.java)
