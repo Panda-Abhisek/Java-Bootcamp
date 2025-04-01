@@ -33,6 +33,12 @@
 - [Decode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Decode.java)
 - [Encode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/encode.java)
 
+# Array Programs
+- [Smallest Element Finding]() ❌
+- [Second Smallest Element Finding]() ❌
+- [Merging 2 Sorted Array]() ❌
+- [Merging 2 Un-sorted Array]() ❌
+
 ### Pattern Questions
 
 Print these patterns using loops:
