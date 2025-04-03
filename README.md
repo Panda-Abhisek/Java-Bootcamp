@@ -50,6 +50,12 @@
 - [Merging 2 Sorted Array]() ❌
 - [Merging 2 Un-sorted Array]() ❌
 
+# Sorting Algorithms
+- [Selection Sort]❌
+- [Insertion Sort]❌
+- [Bubble Sort]❌
+- [Merge Sort]❌
+
 ### Pattern Questions
 
 Print these patterns using loops:
