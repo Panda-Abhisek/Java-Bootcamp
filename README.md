@@ -21,8 +21,6 @@
 - Strong [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java) 
 
 # String Programs
-- [Reverse of String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/StringReverse.java)
-- [Palindrome Check](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Palindrome.java)
 - [Alternate Case Reversal (e.g., "KNOWLEDGE" → "WONKLEGDE")](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/AlternateRev.java)
 - [Sum of Numbers in a String (e.g., "ab13c4d5e" → 13) - using REGEX](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/SumOfNums.java)
 - [Palindromic Substrings (e.g., "banana" -> ana, anana, nan)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/PalinSubstring.java)
@@ -50,10 +48,10 @@
 - [Merging 2 Un-sorted Array]() ❌
 
 # Sorting Algorithms
-- [Selection Sort]❌
-- [Insertion Sort]❌
-- [Bubble Sort]❌
-- [Merge Sort]❌
+- [Selection Sort]()❌
+- [Insertion Sort]()❌
+- [Bubble Sort]()❌
+- [Merge Sort]()❌
 
 ### Pattern Questions
 
