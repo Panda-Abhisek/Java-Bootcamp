@@ -33,16 +33,16 @@
 - [Decode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Decode.java)
 - [Encode a String](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/encode.java)
 ### 📌 Basic String Problems (Easy)
-- Reverse a string
-- Check if a string is a palindrome
-- Count vowels and consonants in a string
-- Convert a string to uppercase or lowercase
-- Find the length of a string without using len()
-- Remove vowels from a string
-- Remove all duplicates from a string
-- Count the frequency of characters in a string
-- Find the first non-repeating character in a string
-- Check if two strings are anagrams
+- [Reverse a string](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Reverse.java)
+- [Check if a string is a palindrome](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Palindrome.java)
+- [Count vowels and consonants in a string](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/CountVowels.java)
+- [Convert a string to uppercase or lowercase](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/UpperLower.java)
+- [Find the length of a string without using len()]()
+- [Remove vowels from a string](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/RemoveVowels.java)
+- [Remove all duplicates from a string](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/RemoveDupli.java)
+- [Count the frequency of characters in a string]()
+- [Find the first non-repeating character in a string](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/NonRepeatingChar.java)
+- [Check if two strings are anagrams](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Anagram.java)
 
 # Array Programs
 - [Smallest Element Finding]() ❌
