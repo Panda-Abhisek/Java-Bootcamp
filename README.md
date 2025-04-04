@@ -48,9 +48,9 @@
 - [Merging 2 Un-sorted Array]() ❌
 
 # Sorting Algorithms
-- [Selection Sort]()❌
-- [Insertion Sort]()❌
-- [Bubble Sort]()❌
+- [Selection Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/SelectionSort.java)
+- [Insertion Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/InsertionSort.java)
+- [Bubble Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/BubbleSort.java)
 - [Merge Sort]()❌
 
 ### Pattern Questions
