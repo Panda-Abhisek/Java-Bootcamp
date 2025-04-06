@@ -18,7 +18,7 @@
 - Palindrome [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Palindrome.java)
 - Fibonacci [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Fibonacci.java) [(Recusion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/Fibonacci.java)
 - Perfect [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Perfect.java)
-- Strong [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java) 
+- Strong [(Loop)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Programs/Strong.java) [(Recursion)](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Recursion/Strong.java)
 
 # String Programs
 - [Alternate Case Reversal (e.g., "KNOWLEDGE" → "WONKLEGDE")](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/AlternateRev.java)
