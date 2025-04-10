@@ -54,6 +54,11 @@
 - [Merge Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/MergeSort.java)
 - [Quick Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/QuickSort.java)
 
+# Searching Algorithms
+- [Linear Search](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/LinearSearch.java)
+- [Binary Search](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/BinarySearch.java)
+- [Binary Search Using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/BSUsingRec.java)
+
 ### Pattern Questions
 
 Print these patterns using loops:
