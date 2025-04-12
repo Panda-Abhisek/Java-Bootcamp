@@ -46,6 +46,13 @@
 - [Second Smallest Element Finding](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/SecondSmallestEle.java)
 - [Merging 2 Sorted Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/MergingTwoSortedArrays.java)
 - [Merging 2 Un-sorted Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/MergingTwoUnsortedArrays.java)
+- [Sum of Elements in Matrix / 2-D Array]() x
+- [Sum of diagonal and anti-diagonal elements in a Matrix]() x
+- [Print a Matrix]() x
+- [Print Transpose of a Matrix]() x
+- [Matrix Multiplication]() x
+- [Spiral Pattern]() x
+- [Pascal's Triangle]() x
 
 # Sorting Algorithms
 - [Selection Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/SelectionSort.java)
