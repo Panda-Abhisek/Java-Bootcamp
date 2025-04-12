@@ -44,8 +44,8 @@
 # Array Programs
 - [Smallest Element Finding](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/SmallestEle.java)
 - [Second Smallest Element Finding](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/SecondSmallestEle.java)
-- [Merging 2 Sorted Array]() ❌
-- [Merging 2 Un-sorted Array]() ❌
+- [Merging 2 Sorted Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/MergingTwoSortedArrays.java)
+- [Merging 2 Un-sorted Array](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/MergingTwoUnsortedArrays.java)
 
 # Sorting Algorithms
 - [Selection Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/SelectionSort.java)
