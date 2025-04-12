@@ -42,8 +42,8 @@
 - [Check if two strings are anagrams](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/String/Anagram.java)
 
 # Array Programs
-- [Smallest Element Finding]() ❌
-- [Second Smallest Element Finding]() ❌
+- [Smallest Element Finding](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/SmallestEle.java)
+- [Second Smallest Element Finding](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/SecondSmallestEle.java)
 - [Merging 2 Sorted Array]() ❌
 - [Merging 2 Un-sorted Array]() ❌
 
