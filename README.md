@@ -66,7 +66,16 @@
 - [Binary Search](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/BinarySearch.java)
 - [Binary Search Using Recursion](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/BSUsingRec.java)
 
-### Pattern Questions
+# Implementations
+- ArrayList
+- LinkedList
+- Doubly Linked List
+- Queue using LinkedList
+- Queue using Arrays
+- Stack using LinkedList
+- Stack using Arrays
+
+## Pattern Questions
 
 Print these patterns using loops:
 
