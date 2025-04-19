@@ -2,7 +2,8 @@ package Queue;
 
 public class Demo {
     public static void main(String[] args) {
-        QueueUsingLinkedListImpl q = new QueueUsingLinkedListImpl();
+        // QueueUsingLinkedListImpl q = new QueueUsingLinkedListImpl();
+        QueueUsingArrayList q = new QueueUsingArrayList();
         q.add(10);
         q.add(20);
         q.add(30);
