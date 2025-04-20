@@ -72,8 +72,8 @@
 - Doubly Linked List
 - [Queue using LinkedList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Queue/QueueUsingLinkedListImpl.java)
 - [Queue using ArraysList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Queue/QueueUsingArrayList.java)
-- Stack using LinkedList
-- Stack using Arrays
+- [Stack using LinkedList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Stack/StackUsingLinkedList.java)
+- [Stack using ArraysList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Stack/StackUsingArrayList.java)
 
 ## Pattern Questions
 
