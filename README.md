@@ -270,3 +270,12 @@ Print these patterns using loops:
       ****
      *****    
 ```
+[23. Code](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/Spiral.java)
+```text
+23. 
+1       2       3       4       5
+16      17      18      19      6
+15      24      25      20      7
+14      23      22      21      8
+13      12      11      10      9
+```
