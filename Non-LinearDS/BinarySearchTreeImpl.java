@@ -68,7 +68,7 @@ public class BinarySearchTreeImpl {
             // case 3 : 2 children
             Node IS = inorderSuccessor(root.right);
             root.data = IS.data;
-            root.right = delete(root.right, val);
+            root.right = delete(root.right, IS.data);
         }
         return root;
     }
