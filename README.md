@@ -77,7 +77,7 @@
 
 # Non Linear 
 - [Binary Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinaryTreeImpl.java)
-- [Binary Search Tree]()
+- [Binary Search Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinarySearchTreeImpl.java)
 
 ## Pattern Questions
 
