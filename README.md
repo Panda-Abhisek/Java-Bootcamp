@@ -75,6 +75,9 @@
 - [Stack using LinkedList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Stack/StackUsingLinkedList.java)
 - [Stack using ArraysList](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Implementations/Stack/StackUsingArrayList.java)
 
+# Non Linear 
+- [Binary Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinaryTreeImpl.java)
+
 ## Pattern Questions
 
 Print these patterns using loops:
