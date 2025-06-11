@@ -78,6 +78,8 @@
 # Non Linear 
 - [Binary Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinaryTreeImpl.java)
 - [Binary Search Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinarySearchTreeImpl.java)
+- [HashSet](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashSetImpl.java)
+- [HashMap](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/Hashmap.java)
 
 ## Pattern Questions
 
