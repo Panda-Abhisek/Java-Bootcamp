@@ -80,6 +80,7 @@
 - [Binary Search Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinarySearchTreeImpl.java)
 - [HashSet](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashSetImpl.java)
 - [HashMap](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/Hashmap.java)
+- [HashMap Implementation](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashMapImpl.java)
 
 ## Pattern Questions
 
