@@ -51,7 +51,7 @@
 - [Print a Matrix]() x
 - [Print Transpose of a Matrix]() x
 - [Matrix Multiplication]() x
-- [Spiral Pattern]() x
+- [Spiral Pattern](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/Spiral.java)
 - [Pascal's Triangle]() x
 
 # Sorting Algorithms
