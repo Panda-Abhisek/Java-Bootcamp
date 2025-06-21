@@ -52,7 +52,7 @@
 - [Print Transpose of a Matrix]() x
 - [Matrix Multiplication]() x
 - [Spiral Pattern](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Patterns/Spiral.java)
-- [Pascal's Triangle]() x
+- [Pascal's Triangle](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Arrays/PascalsTriangle.java)
 
 # Sorting Algorithms
 - [Selection Sort](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Algorithms/SelectionSort.java)
