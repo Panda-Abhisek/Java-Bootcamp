@@ -79,6 +79,7 @@
 - [Binary Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinaryTreeImpl.java)
 - [Binary Search Tree](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/BinarySearchTreeImpl.java)
 - [HashSet](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashSetImpl.java)
+- [HashSet Internal Impl](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashSetInternalImpl.java)
 - [HashMap](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/Hashmap.java)
 - [HashMap Implementation](https://github.com/Panda-Abhisek/Java-Bootcamp/blob/main/Non-LinearDS/HashMapImpl.java)
 
