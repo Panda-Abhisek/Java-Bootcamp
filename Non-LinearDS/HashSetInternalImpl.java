@@ -41,9 +41,9 @@ public class HashSetInternalImpl {
             temp = curr;
             curr = curr.next;
         }
-        temp.next = new Node(di, null);
+        temp.next = new Node(key, null);
         count++;
-        return false;
+        return flag;
     }
 
     public void dispaly() {
